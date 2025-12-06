@@ -1,8 +1,8 @@
-# [Project Name] - VR CPR Simulation
+# VR CPR Simulation
 
 
 ## 🫀 Overview
-**[Project Name]** is an immersive Virtual Reality application built with Unity designed to train users in Cardiopulmonary Resuscitation (CPR). This simulation provides a safe, controlled environment for users to practice life-saving techniques, offering real-time feedback on compression rate, depth, and hand placement.
+**VR CPR Simulation** is an immersive Virtual Reality application built with Unity designed to train users in Cardiopulmonary Resuscitation (CPR). This simulation provides a safe, controlled environment for users to practice life-saving techniques, offering real-time feedback on compression rate, depth, and hand placement.
 
 The goal of this project is to gamify first-aid training and make it accessible, engaging, and effective using VR technology.
 
@@ -25,8 +25,8 @@ The goal of this project is to gamify first-aid training and make it accessible,
 ## ⚙️ Installation & Setup
 
 ### Prerequisites
-* Unity Hub and Unity Editor version **[Your Unity Version]**.
-* A VR Headset compatible with OpenXR/Oculus Link.
+* Unity Hub and Unity Editor version **Unity [2022.3 LTS]**.
+* A VR Headset compatible with OpenXR.
 
 ### Steps to Run
 1.  **Clone the Repository**
