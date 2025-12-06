@@ -1,6 +1,5 @@
 # [Project Name] - VR CPR Simulation
 
-![Project Banner]([Link to an image or GIF of your simulation])
 
 ## 🫀 Overview
 **[Project Name]** is an immersive Virtual Reality application built with Unity designed to train users in Cardiopulmonary Resuscitation (CPR). This simulation provides a safe, controlled environment for users to practice life-saving techniques, offering real-time feedback on compression rate, depth, and hand placement.
@@ -16,16 +15,12 @@ The goal of this project is to gamify first-aid training and make it accessible,
 * **Scoring System:** Users receive a score based on accuracy and timing at the end of the session.
 
 ## 🛠 Tech Stack
-* **Engine:** Unity [e.g., 2022.3 LTS]
+* **Engine:** Unity [2022.3 LTS]
 * **Language:** C#
-* **VR Framework:** [e.g., XR Interaction Toolkit / Oculus Integration SDK / SteamVR]
-* **Hardware Tested:** [e.g., Meta Quest 2, Meta Quest 3, HTC Vive]
-* **3D Assets:** [e.g., Custom models / Blender / Unity Asset Store]
+* **VR Framework:**  XR Interaction Toolkit
+* **Hardware Tested:** Meta Quest 2, Meta Quest 3
+* **3D Assets:**  Custom models / Blender / Unity Asset Store
 
-## 📸 Screenshots
-| Main Menu | CPR Action | Feedback UI |
-|:---:|:---:|:---:|
-| ![Menu]([Link to image]) | ![Gameplay]([Link to image]) | ![UI]([Link to image]) |
 
 ## ⚙️ Installation & Setup
 
@@ -36,7 +31,7 @@ The goal of this project is to gamify first-aid training and make it accessible,
 ### Steps to Run
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourUsername]/[RepoName].git
+    git clone [https://github.com/](https://github.com/nithishreddy1101/CPR-Simualtion.git
     ```
 2.  **Open in Unity**
     * Open Unity Hub.
@@ -51,19 +46,6 @@ The goal of this project is to gamify first-aid training and make it accessible,
     * Select your platform (Android for Standalone Quest / Windows for PCVR).
     * Click **Build and Run**.
 
-## 🎮 Controls
-| Action | Input (Quest/Vive) |
-| :--- | :--- |
-| **Teleport/Move** | [e.g., Left Thumbstick] |
-| **Grab/Interact** | [e.g., Grip Button] |
-| **Start Compressions** | [e.g., Place hands on chest dummy and push] |
-| **UI Selection** | [e.g., Trigger Button] |
-
-## 🚀 Future Improvements
-* [ ] Add multiplayer support for collaborative rescue scenarios.
-* [ ] Integrate haptic feedback vests for more immersion.
-* [ ] Add "Infant CPR" mode.
-* [ ] Export a standalone APK for easier Quest installation.
 
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions for better CPR mechanics or optimization:
@@ -72,10 +54,3 @@ Contributions are welcome! If you have suggestions for better CPR mechanics or o
 3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4.  Push to the Branch (`git push origin feature/AmazingFeature`)
 5.  Open a Pull Request
-
-## 📄 License
-Distributed under the MIT License. See `LICENSE` for more information.
-
-## 👏 Acknowledgments
-* Thanks to [Resource Name] for the 3D models.
-* CPR guidelines referenced from [American Heart Association].
