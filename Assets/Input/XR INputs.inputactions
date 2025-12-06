@@ -1,0 +1,54 @@
+{
+    "name": "XR INputs",
+    "maps": [
+        {
+            "name": "XR inputs",
+            "id": "b011f7ce-8a02-423c-bd08-b87011d15093",
+            "actions": [
+                {
+                    "name": "Right",
+                    "type": "Value",
+                    "id": "626430bf-cee1-4cda-b9a0-445fd5da3768",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Left",
+                    "type": "Value",
+                    "id": "8b7984ba-ae09-496f-91fe-7cac04b748b9",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c4a7506a-8a3d-4dc4-892f-964b2a98aa9e",
+                    "path": "<XRController>{RightHand}/{Trigger}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "db498f54-b560-4585-b71a-bf012b684c0d",
+                    "path": "<XRController>{LeftHand}/{Trigger}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
