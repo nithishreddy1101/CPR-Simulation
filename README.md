@@ -27,30 +27,3 @@ The goal of this project is to gamify first-aid training and make it accessible,
 ### Prerequisites
 * Unity Hub and Unity Editor version **Unity [2022.3 LTS]**.
 * A VR Headset compatible with OpenXR.
-
-### Steps to Run
-1.  **Clone the Repository**
-    ```bash
-    git clone [https://github.com/](https://github.com/nithishreddy1101/CPR-Simualtion.git
-    ```
-2.  **Open in Unity**
-    * Open Unity Hub.
-    * Click "Add" and select the cloned project folder.
-    * Open the project (Allow some time for package resolution).
-3.  **Configure XR Settings**
-    * Go to `Edit > Project Settings > XR Plug-in Management`.
-    * Ensure the provider for your headset (e.g., Oculus, OpenXR) is checked.
-4.  **Build & Run**
-    * Connect your VR headset to the PC.
-    * Go to `File > Build Settings`.
-    * Select your platform (Android for Standalone Quest / Windows for PCVR).
-    * Click **Build and Run**.
-
-
-## 🤝 Contributing
-Contributions are welcome! If you have suggestions for better CPR mechanics or optimization:
-1.  Fork the Project
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4.  Push to the Branch (`git push origin feature/AmazingFeature`)
-5.  Open a Pull Request
